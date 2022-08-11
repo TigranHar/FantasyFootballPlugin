@@ -1,0 +1,11 @@
+name: Fantasyfootball
+version: '${project.version}'
+main: com.minecraftplugin.fantasyfootball.Fantasyfootball
+api-version: 1.17
+authors: [ Tigran ]
+description: A fantasy football plugin
+commands:
+  gui:
+    descripiton: Open Inventory
+  admin-gui:
+    descripiton: Open Inventory for admin view.
